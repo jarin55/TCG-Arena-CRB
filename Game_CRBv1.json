@@ -1,5 +1,5 @@
 {
-  "name": "CookieRunBraverse",
+  "name": "CRB",
   "menuBackgroundImage": "https://cookierunbraverse.com/images/common/logo_en.webp",
   "defaultRessources": {
     "backgrounds": [
@@ -8,7 +8,7 @@
     "decksUrl": ""
   },
   "customHelp": "",
-  "cardRotation": 45,
+  "cardRotation": "90",
   "cards": {
     "dataUrl": "https://github.com/jarin55/TCG-Arena-CRB/CardListV2.json",
     "cardBack": "https://cookierunbraverse.com/images/card/card-back.png"
@@ -16,7 +16,8 @@
   "deckBuilding": {
     "mainFilters": [
       "Type",
-      "Name"
+      "Name",
+      "Cost"
     ],
     "formats": [
       {
