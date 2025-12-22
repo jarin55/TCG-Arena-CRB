@@ -186,7 +186,7 @@
             "title": "Extra",
             "isHidden": "yes",
             "height": "SMALL",
-            "alignment": "DECK",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
