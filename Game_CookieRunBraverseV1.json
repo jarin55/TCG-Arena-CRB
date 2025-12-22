@@ -288,7 +288,7 @@
           },
           "BreakArea": {
             "title": "BreakArea",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
@@ -304,9 +304,9 @@
           },
           "Extra": {
             "title": "Extra",
-            "isHidden": "no",
+            "isHidden": "yes",
             "height": "SMALL",
-            "alignment": "START",
+            "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
