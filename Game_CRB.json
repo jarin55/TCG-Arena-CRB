@@ -188,7 +188,7 @@
                         "height": "11",
                         "alignment": "START",
                         "noAutoPayTo": true,
-                        "displayedTitle": "Support",
+                        "displayedTitle": "Support"
                     },
                     "StageArea": {
                         "title": "StageArea",
@@ -196,14 +196,14 @@
                         "height": "SMALL",
                         "alignment": "CENTER",
                         "isHorizontalAllowed": true,
-                        "displayedTitle": "Stage Area",
+                        "displayedTitle": "Stage Area"
                     },
                     "BreakArea": {
                         "title": "BreakArea",
                         "isHidden": "no",
                         "height": "SMALL",
                         "alignment": "CENTER",
-                        "displayedTitle": "Break Area",
+                        "displayedTitle": "Break Area"
                     },
                     "Extra": {
                         "title": "Extra",
@@ -211,7 +211,7 @@
                         "height": "11",
                         "alignment": "START",
                         "isHorizontalAllowed": true,
-                        "displayedTitle": "Extra Deck",
+                        "displayedTitle": "Extra Deck"
                     },
                     "Cookie1": {
                         "title": "Cookie1",
@@ -220,7 +220,7 @@
                         "alignment": "CENTER",
                         "isHorizontalAllowed": true,
                         "displayedTitle": "Cookie 1",
-                        "noQuickActions": true,
+                        "noQuickActions": true
                     },
                     "Cookie2": {
                         "title": "Cookie2",
@@ -229,7 +229,7 @@
                         "alignment": "CENTER",
                         "isHorizontalAllowed": true,
                         "displayedTitle": "Cookie 2",
-                        "noQuickActions": true,
+                        "noQuickActions": true
                     },
                     "HP1": {
                         "title": "HP1",
@@ -238,7 +238,7 @@
                         "alignment": "END",
                         "opponentAlignment": "START",
                         "isHorizontalAllowed": true,
-                        "displayedTitle": "Cookie 1 HP",
+                        "displayedTitle": "Cookie 1 HP"
                     },
                     "HP2": {
                         "title": "HP2",
@@ -247,7 +247,7 @@
                         "alignment": "START",
                         "opponentAlignment": "END",
                         "isHorizontalAllowed": true,
-                        "displayedTitle": "Cookie 2 HP",
+                        "displayedTitle": "Cookie 2 HP"
                     }
                 }
             }
