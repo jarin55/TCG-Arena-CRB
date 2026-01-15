@@ -16,7 +16,7 @@
     "deckBuilding": {
         "mainFilters": [
             "Type",
-            "Name",
+            "Cost",
             "Color"
         ],
         "formats": [
