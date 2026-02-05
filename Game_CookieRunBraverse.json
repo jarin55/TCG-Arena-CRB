@@ -17,7 +17,9 @@
     "mainFilters": [
       "Type",
       "Name",
-      "Color"
+      "Color",
+      "set",
+      "rarity"
     ],
     "formats": [
       {
