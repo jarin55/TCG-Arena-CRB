@@ -14,34 +14,18 @@
     "cardBack": "https://cookierunbraverse.com/images/card/card-back.png"
   },
   "deckBuilding": {
-  "mainFilters": [
-    "type",
-    "level",
-    "color"
-  ],
-  "formats": [
-    {
-      "title": "Classic",
-      "gameplay": "Classic",
-      "customCategories": [],
-      "deckRuleset": "Classic"
-    }
-  ],
-  "deckRulesets": {
-  "Classic": {
-    "general": {
-  "min": 60,
-  "max": 60,
-  "maxPerCard": 4
-},
-"categories": [
-  {
-    "category": "Extra",
-    "min": 0,
-    "max": 6,
-    "maxPerCard": 4
-  }
-]
+    "mainFilters": [
+      "type",
+      "level",
+      "color"
+    ],
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic",
+        "customCategories": []
+      }
+    ]
   },
   "gameplay": {
     "Classic": {
